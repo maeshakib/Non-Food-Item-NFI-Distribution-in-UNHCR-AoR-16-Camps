@@ -2,20 +2,25 @@
 Non Food Item(NFI) Distribution in UNHCR AoR 16 Camps
 Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Directorate General of Health Services (DGHS), in partnership with WHO, UNHCR, UNICEF, and other organizations, we successfully vaccinated **88%** (379,320) of the Rohingya population above 18 years of age between August 2021 and September 2022 with **22 vaccination campaigns**.
 
-## Diphtheria Vaccination majors campaign timeline
-<img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/diphteria_campaign_timeline.png" /> 
+## NFI distribution summary in 2023
+<img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Non-Food-Item-NFI-Distribution-in-UNHCR-AoR-16-Camps/blob/main/NFI%20distribution%20summary.png" /> 
 <br/>
-
-
-## Diphtheria Vaccination doses summary
-<img  alt="Diphtheria vacciantion Summary"  src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/vaccination_summary.png" />
-<br/>
-
+ 
 ## Tool we used for distribution: 
 - Global Distribution Tool (GDT)
 - SQL Server
 - Excel
 - SSRS report
+
+## Statistics and report we support for distribution: 
+- Mid-Year Implementation Monitoring and Review Indicators: This indicator describes the achievements in LPG distribution within the UNHCR Area of Responsibility (AoR) across 16 camps against the set targets.
+ - Total number of people who received LPG and Pressure cooker.
+ - Proportion of refugees received LPG and pressure cooker against the set target.
+- Monthly NFI distribution summary report.
+- Monthly/Yearly NFI refill projection statistics.
+- Yearly Female Hygiene Kits Forecasting Based on Population Changes.
+- Planning figures for pressure cooker distribution.
+
 
 
 ## Key contributions:
